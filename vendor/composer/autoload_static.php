@@ -93,7 +93,7 @@ class ComposerStaticInite260a5434f3dc6acea46ead379d0ae4e
         ),
         'PackageVersions\\' => 
         array (
-            0 => __DIR__ . '/..' . '/ocramius/package-versions/src/PackageVersions',
+            0 => __DIR__ . '/..' . '/composer/package-versions-deprecated/src/PackageVersions',
         ),
         'Doctrine\\Persistence\\' => 
         array (
@@ -145,7 +145,7 @@ class ComposerStaticInite260a5434f3dc6acea46ead379d0ae4e
     );
 
     public static $fallbackDirsPsr0 = array (
-        0 => __DIR__ . '/../..' . '/src',
+        0 => __DIR__ . '/../..' . '/src/entities',
     );
 
     public static $classMap = array (

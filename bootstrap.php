@@ -16,7 +16,7 @@ $config = Setup::createAnnotationMetadataConfiguration(array(__DIR__."/src/entit
 
 // database configuration parameters
 $conn = array(
-    'dbname'   => 'My_Orm',
+    'dbname'   => 'apiorm',
     'user'     => 'root',
     'password' => '',
     'host'     => '127.0.0.1',
